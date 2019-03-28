@@ -1,0 +1,13 @@
+C:\Users\almei\source\repos\Microondas\Microondas\bin\Debug\Microondas.exe.config
+C:\Users\almei\source\repos\Microondas\Microondas\bin\Debug\Microondas.exe
+C:\Users\almei\source\repos\Microondas\Microondas\bin\Debug\Microondas.pdb
+C:\Users\almei\source\repos\Microondas\Microondas\obj\Debug\Microondas.csprojAssemblyReference.cache
+C:\Users\almei\source\repos\Microondas\Microondas\obj\Debug\Microondas.frmMicroondas.resources
+C:\Users\almei\source\repos\Microondas\Microondas\obj\Debug\Microondas.Properties.Resources.resources
+C:\Users\almei\source\repos\Microondas\Microondas\obj\Debug\Microondas.csproj.GenerateResource.cache
+C:\Users\almei\source\repos\Microondas\Microondas\obj\Debug\Microondas.csproj.CoreCompileInputs.cache
+C:\Users\almei\source\repos\Microondas\Microondas\obj\Debug\Microondas.exe
+C:\Users\almei\source\repos\Microondas\Microondas\obj\Debug\Microondas.pdb
+C:\Users\almei\source\repos\Microondas\Microondas\obj\Debug\Microondas.addPrograma.resources
+C:\Users\almei\source\repos\Microondas\Microondas\bin\Debug\Microondas.exe.CodeAnalysisLog.xml
+C:\Users\almei\source\repos\Microondas\Microondas\bin\Debug\Microondas.exe.lastcodeanalysissucceeded
